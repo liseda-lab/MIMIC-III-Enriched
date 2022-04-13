@@ -1,0 +1,17 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/584.9
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/403.91
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/285.1
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/276.2
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/276.3
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/276.7
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/424.1
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/784.7
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/585.4
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/272.4
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/530.81
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/285.21
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/311.
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/458.9
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/21.01
+21231,130032,228089,http://purl.bioontology.org/ontology/ICD9CM/99.04

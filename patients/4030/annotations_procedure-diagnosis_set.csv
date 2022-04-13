@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+4030,105170,202424,http://purl.bioontology.org/ontology/ICD9CM/421.0
+4030,105170,202424,http://purl.bioontology.org/ontology/ICD9CM/041.09
+4030,105170,202424,http://purl.bioontology.org/ontology/ICD9CM/35.23
+4030,105170,202424,http://purl.bioontology.org/ontology/ICD9CM/39.61

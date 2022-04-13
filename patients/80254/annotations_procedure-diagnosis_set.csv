@@ -1,0 +1,14 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/427.1
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/428.23
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/425.4
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/427.31
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/428.0
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/458.9
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/403.90
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/585.9
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/244.9
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/274.9
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/V58.61
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/V43.64
+80254,134373,253287,http://purl.bioontology.org/ontology/ICD9CM/37.34

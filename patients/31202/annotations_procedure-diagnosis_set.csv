@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+31202,184366,294451,http://purl.bioontology.org/ontology/ICD9CM/430.
+31202,184366,294451,http://purl.bioontology.org/ontology/ICD9CM/401.9
+31202,184366,294451,http://purl.bioontology.org/ontology/ICD9CM/305.1
+31202,184366,294451,http://purl.bioontology.org/ontology/ICD9CM/39.72

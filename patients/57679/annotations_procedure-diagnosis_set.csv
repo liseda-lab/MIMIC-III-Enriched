@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+57679,163106,231742,http://purl.bioontology.org/ontology/ICD9CM/860.5
+57679,163106,231742,http://purl.bioontology.org/ontology/ICD9CM/873.0
+57679,163106,231742,http://purl.bioontology.org/ontology/ICD9CM/E966.
+57679,163106,231742,http://purl.bioontology.org/ontology/ICD9CM/86.59

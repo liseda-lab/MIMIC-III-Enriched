@@ -1,0 +1,7 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+87060,197917,256992,http://purl.bioontology.org/ontology/ICD9CM/424.0
+87060,197917,256992,http://purl.bioontology.org/ontology/ICD9CM/272.4
+87060,197917,256992,http://purl.bioontology.org/ontology/ICD9CM/274.9
+87060,197917,256992,http://purl.bioontology.org/ontology/ICD9CM/V12.51
+87060,197917,256992,http://purl.bioontology.org/ontology/ICD9CM/35.12
+87060,197917,256992,http://purl.bioontology.org/ontology/ICD9CM/39.61

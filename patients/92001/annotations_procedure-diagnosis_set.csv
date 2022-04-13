@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+92001,150299,212737,http://purl.bioontology.org/ontology/ICD9CM/305.00
+92001,150299,212737,http://purl.bioontology.org/ontology/ICD9CM/873.0
+92001,150299,212737,http://purl.bioontology.org/ontology/ICD9CM/E880.1
+92001,150299,212737,http://purl.bioontology.org/ontology/ICD9CM/96.04
+92001,150299,212737,http://purl.bioontology.org/ontology/ICD9CM/86.59

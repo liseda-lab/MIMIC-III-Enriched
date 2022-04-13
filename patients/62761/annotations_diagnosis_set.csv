@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,URI
+62761,101038,279524,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3390
+62761,101038,279524,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50211
+62761,101038,279524,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50781
